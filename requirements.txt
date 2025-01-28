@@ -1,3 +1,7 @@
 FastAPI
 requests
 python-dotenv
+uvicorn
+fastapi-cors
+openai
+python-multipart
